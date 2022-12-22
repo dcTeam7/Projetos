@@ -1,0 +1,9 @@
+.figura{
+    position:absolute;
+    width:262px;
+    height:261px; 
+    float: right; 
+    margin-bottom: 0;
+    right: 0px; 
+    bottom: 0;
+}
